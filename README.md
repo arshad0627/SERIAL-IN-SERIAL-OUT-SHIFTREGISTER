@@ -71,7 +71,7 @@ endmodule
 
 ![exp10 digi](https://github.com/user-attachments/assets/174d3660-b81a-40f5-81b3-3e12f0ff554e)
 
-**TIMING DIGRAM**
+**TIMING DIGARM**
 
 
 ![output 10](https://github.com/user-attachments/assets/5d3baca3-2414-4b2a-a430-6c7e5885cd41)
